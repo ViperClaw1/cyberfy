@@ -1,0 +1,8 @@
+<svg width="1580" height="845" viewBox="0 0 1580 845" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="55" y="166" width="512" height="55" transform="rotate(90 55 166)" fill="#202020"/>
+<rect x="243" y="166" width="512" height="134" transform="rotate(90 243 166)" fill="#202020"/>
+<rect x="502" y="166" width="512" height="205" transform="rotate(90 502 166)" fill="#202020"/>
+<circle cx="1157.5" cy="422.5" r="422.5" fill="#FF4343"/>
+<path d="M880.888 422.844L556.362 749.689L556.362 96L880.888 422.844Z" fill="#202020"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M754.592 550.042L880.888 422.844L754.427 295.48C741.805 335.571 735 378.241 735 422.5C735 466.952 741.865 509.8 754.592 550.042Z" fill="white"/>
+</svg>
